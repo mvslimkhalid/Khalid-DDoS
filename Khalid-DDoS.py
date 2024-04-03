@@ -282,10 +282,10 @@ def usage2():
 def usage3():
     console = Console()
     MARKDOWN="""
-    Programmer : Dr Khalid
+    Programmer : mvslimkhalid
     Made in : Palestine
     Instagram : @mvslimkhalid
-    github : https://github.com/Dr.Khalid/Khalid-DDoS
+    github : https://github.com/mvslimkhalid/Khalid-DDoS
     Tool Information : It Was Specially Made To Destroy Isl@m  Haters
 """
     md = Markdown(MARKDOWN)
