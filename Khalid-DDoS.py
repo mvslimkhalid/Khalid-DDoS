@@ -241,7 +241,7 @@ def dos_3():
 def usage():
     console = Console()
     MARKDOWN=("""
-         	     313  DDos Script V 1.1            """)
+         	     Khalid  DDos Script V 2.1            """)
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")   
     
@@ -282,10 +282,10 @@ def usage2():
 def usage3():
     console = Console()
     MARKDOWN="""
-    Programmer : mvslimkhalid
-    Made in : Palestine
-    Instagram : @mvslimkhalid
-    github : https://github.com/mvslimkhalid/Khalid-DDoS
+    Programmer       : mvslimkhalid
+    Made in          : Palestine
+    Instagram        : @mvslimkhalid
+    github           : https://github.com/mvslimkhalid/Khalid-DDoS
     Tool Information : It Was Specially Made To Destroy Isl@m  Haters
 """
     md = Markdown(MARKDOWN)
