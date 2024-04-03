@@ -13,13 +13,19 @@ DDOS Strong Tool To Stop Servers And Sites
 
 # Command information:
 الاستخدام :
-$ python 313DDos.py [-i] [-p] [-l]    
+$ python Khalid-DDoS.py [-i] [-p] [-l]    
 
 │ -h : للمساعده
+
 │ -i : اي بي السيرفر
+
 │ -p : البورت المراد استهدافه
+
 │ -l : عدد مستويات الهجوم
+
 │ -f : ال ايبي الزائف اختياري
+
 │ -d : اخفاء وتقليل الرسائل المنبثقه
 مثال :
+
  python Khalid-DDoS.py -i 12.345.678.90 -p 80 -l  2 
