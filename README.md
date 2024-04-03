@@ -3,7 +3,7 @@ DDOS Strong Tool To Stop Servers And Sites
 # installing
 • 1 .  pkg install python 
 
-• 2 .  git clone https://github.com/mvslimkhalid/Khalid-DDoS
+• 2 .  git clone https://github.com/mvslimkhalid/Khalid-DDoS.git
 
 • 3 .  cd Khalid-DDoS
 
