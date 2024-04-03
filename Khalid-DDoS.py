@@ -298,7 +298,7 @@ def usage3():
 def run():
     os.system("clear")
     console.print(f"""
-    Hoat : {str(target)}
+    Host : {str(target)}
     Port : {ports}
     Level : {levels}
     Fake ip : {fake_ip}
