@@ -10,3 +10,6 @@ DDOS Strong Tool To Stop Servers And Sites
 • 4 .  pip install -r installing.txt 
 
 • 5 .  python Khalid-DDoS.py -h  
+
+# Command information:
+الاستخدام :
